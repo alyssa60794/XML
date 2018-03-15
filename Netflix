@@ -1,0 +1,8 @@
+<netflix>
+  <video genre="comedy">
+    <title>The Office</title>
+    <director>Jennifer Celotta</director>
+    <year>2005</year>
+    <length>22 minutes per episode</length>
+  </video>
+</netflix>
